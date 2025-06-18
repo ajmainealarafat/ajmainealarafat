@@ -1,23 +1,80 @@
-<!-- 🌟 Hero Banner -->
+<!-- 👑 Hero Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/8DpXgbw/banner-dev.gif" width="100%" alt="Azmain Al Arafat Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=👑+Ajmaine+Al+Arafat+%7C+Celebrity+Developer+%26+Singer;🚀+Crafting+Islamic+Apps+%7C+Dark+UI+Lover;🎧+Tech+with+Spiritual+Vibes+%7C+From+Bangladesh" alt="Typing Banner" />
 </p>
 
-<h1 align="center">✨ Hi, I'm Azmain Al Arafat ✨</h1>
+<h1 align="center">🎤 Ajmaine Al Arafat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=700&lines=💻+Passionate+Web+Developer;🎨+Creative+UI%2FUX+Designer;🚀+Islamic+Mini+Apps+Builder;📧+ajmainealarafatofficial%40gmail.com" alt="Typing Effect" />
+  <b>🎓 Developer | 🎶 Singer | 🕌 Islamic App Creator</b><br>
+  <i>Founder | Tech Innovator | Based in Bangladesh</i>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🔥 About Me
 
-> _“I believe in building tools that are both useful and beautiful.”_
+- 💻 Full-Stack Developer (PHP, JS, Python)
+- 🎤 Released Tracks: *Tera Ghata Arafat*, *Moner Issa*, *Jo Tu Nehi To*
+- 🕌 Built Islamic tools (Quran, Namaz, Ramadan apps)
+- 🎨 UI/UX & Dark Theme Enthusiast
+- 🇧🇩 Born in Kathalia, Jhalokathi, Bangladesh
 
-- 🌍 Based in Bangladesh  
-- 💻 Love building **Islamic utility apps** and creative **PHP/JS tools**  
-- ⚡ Expert in: Laravel, PHP, JavaScript, Bootstrap, Tailwind, API Integration  
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind,python,vscode,git,github" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajmainealarafat&show_icons=true&theme=github_dark&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajmainealarafat&theme=github-dark&hide_border=true" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmainealarafat&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## 🎧 My Music
+
+<p align="center">
+  <a href="https://open.spotify.com/artist/7xgSWQUEmV0APUP6fBxkVu"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://soundcloud.com/ajmaineofficial"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
+  <a href="https://music.amazon.com/artists/B0C7SHX5V4"><img src="https://img.shields.io/badge/Amazon%20Music-000000?style=for-the-badge&logo=amazon&logoColor=white"/></a>
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:ajmainealarafatofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/ajmaine"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+## 💡 Fun Facts
+
+- 🌓 Obsessed with Dark UI  
+- 📱 Makes full-featured Islamic apps without a database  
+- 🎶 Combines Tech & Islamic Vibes into one lifestyle  
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting! Keep coding, keep believing.  
+  <br/>
+  — <b>Ajmaine Al Arafat</b> 💻🎤
+</p>- ⚡ Expert in: Laravel, PHP, JavaScript, Bootstrap, Tailwind, API Integration  
 - 🛠️ Tools I use: VS Code, GitHub, Postman, Figma  
 - 📬 Email: [ajmainealarafatofficial@gmail.com](mailto:ajmainealarafatofficial@gmail.com)  
 - 🔹 Telegram: [@ajmaine](https://t.me/ajmaine)
