@@ -1,6 +1,6 @@
 <!-- 👑 Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=👑+Ajmaine+Al+Arafat+%7C+Celebrity+Developer+%26+Singer;🚀+Crafting+Islamic+Apps+%7C+Dark+UI+Lover;🎧+Tech+with+Spiritual+Vibes+%7C+From+Bangladesh" alt="Typing Banner" />
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Welcome+to+my+GitHub+Profile;Exploring+the+World+of+Code;Learning+Every+Day)
 </p>
 
 <h1 align="center"> Ajmaine Al Arafat</h1>
@@ -65,8 +65,8 @@
 ## 💡 Fun Facts
 
 - 🌓 Obsessed with Dark UI  
-- 📱 Makes full-featured Islamic apps without a database  
-- 🎶 Combines Tech & Islamic Vibes into one lifestyle  
+- 📱 Mini web app maker  
+- 🎶 Combines Tech
 
 ---
 
