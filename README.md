@@ -3,41 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=👑+Ajmaine+Al+Arafat+%7C+Celebrity+Developer+%26+Singer;🚀+Crafting+Islamic+Apps+%7C+Dark+UI+Lover;🎧+Tech+with+Spiritual+Vibes+%7C+From+Bangladesh" alt="Typing Banner" />
 </p>
 
-<h1 align="center">🎤 Ajmaine Al Arafat</h1>
-
-<p align="center">
-  <b>🎓 Developer | 🎶 Singer | 🕌 Islamic App Creator</b><br>
-  <i>Founder | Tech Innovator | Based in Bangladesh</i>
-</p>
-
----
-
-## 🔥 About Me
-
-- 💻 Full-Stack Developer (PHP, JS, Python)
-- 🎤 Released Tracks: *Tera Ghata Arafat*, *Moner Issa*, *Jo Tu Nehi To*
-- 🕌 Built Islamic tools (Quran, Namaz, Ramadan apps)
-- 🎨 UI/UX & Dark Theme Enthusiast
-- 🇧🇩 Born in Kathalia, Jhalokathi, Bangladesh
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind,python,vscode,git,github" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<!-- 👑 Hero Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=👑+Ajmaine+Al+Arafat+%7C+Celebrity+Developer+%26+Singer;🚀+Crafting+Islamic+Apps+%7C+Dark+UI+Lover;🎧+Tech+with+Spiritual+Vibes+%7C+From+Bangladesh" alt="Typing Banner" />
-</p>
-
 <h1 align="center"> Ajmaine Al Arafat</h1>
 
 <p align="center">
