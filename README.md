@@ -1,37 +1,38 @@
-<!-- 🌟 হিরো ব্যানার -->
+<!-- 🌟 Hero Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/fU3cJpj.gif" width="100%" alt="Azmain Arafat - Banner" />
+  <img src="https://i.ibb.co/8DpXgbw/banner-dev.gif" width="100%" alt="Azmain Al Arafat Banner" />
 </p>
 
-<h1 align="center">✨ আজমাইন আল আরাফাত ✨</h1>
+<h1 align="center">✨ Hi, I'm Azmain Al Arafat ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=27AE60&center=true&vCenter=true&width=600&lines=🔭+আমি+একজন+ওয়েব+ডেভেলপার;🌙+ইসলামিক+মিনি+অ্যাপ+তৈরিতে+দক্ষ;🎨+ডিজাইন+এবং+ডেভ+দুইটাই+ভালবাসি!" alt="Typing Effect" />
-</p>
-
----
-
-## 🧑‍💻 আমার পরিচিতি
-
-> “প্রযুক্তিকে উপকারে লাগাও, তবেই সে আশীর্বাদ।” 💡
-
-- 🌍 আমি বাংলাদেশের একজন ডেভেলপার
-- 🕌 ইসলামিক এবং ইউটিলিটি অ্যাপ তৈরির প্রতি আমার আগ্রহ প্রবল
-- 🎯 PHP, JavaScript, Laravel, API Integration, UI/UX Design-এ দক্ষ
-- ✉️ Email: [ajmainealarafatofficial@gmail.com](mailto:ajmainealarafatofficial@gmail.com)
-- 💬 Telegram: [@ajmaine](https://t.me/ajmaine)
-
----
-
-## 🔧 দক্ষতা ও টুলস
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,figma,git,github,vscode,python&perline=6&theme=light" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=700&lines=💻+Passionate+Web+Developer;🎨+Creative+UI%2FUX+Designer;🚀+Islamic+Mini+Apps+Builder;📧+ajmainealarafatofficial%40gmail.com" alt="Typing Effect" />
 </p>
 
 ---
 
-## 📊 GitHub পরিসংখ্যান
+## 🧑‍💻 About Me
+
+> _“I believe in building tools that are both useful and beautiful.”_
+
+- 🌍 Based in Bangladesh  
+- 💻 Love building **Islamic utility apps** and creative **PHP/JS tools**  
+- ⚡ Expert in: Laravel, PHP, JavaScript, Bootstrap, Tailwind, API Integration  
+- 🛠️ Tools I use: VS Code, GitHub, Postman, Figma  
+- 📬 Email: [ajmainealarafatofficial@gmail.com](mailto:ajmainealarafatofficial@gmail.com)  
+- 🔹 Telegram: [@ajmaine](https://t.me/ajmaine)
+
+---
+
+## 🚀 My Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,git,github,vscode,figma,python&perline=6&theme=light" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajmaine&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
@@ -44,14 +45,7 @@
 
 ---
 
-## 🎯 আমার লক্ষ্য
-
-> 🌱 _“প্রতিদিন কিছু শিখি, এবং সেটা দিয়ে অন্যকে উপকার করি”_  
-> 💡 _“ডিজাইন এবং ডেভেলপমেন্ট – দুটোর মিলেই আমার সৃষ্টি”_
-
----
-
-## 🤝 যোগাযোগ করো
+## 🔗 Contact Me
 
 <p align="center">
   <a href="mailto:ajmainealarafatofficial@gmail.com">
@@ -64,25 +58,26 @@
 
 ---
 
-## 📌 প্রজেক্ট ও কাজ
+## 📁 Featured Projects
 
-> 🎉 আমার GitHub প্রোফাইলে পাবেন:
-- 📱 ইসলামিক টাইমিং অ্যাপ
-- 🧮 তসবিহ কাউন্টার
-- 🎁 টাস্ক & রিওয়ার্ড সিস্টেম
-- 💡 পিএইচপি ও API ভিত্তিক ইউটিলিটি টুলস  
-👉 [প্রোজেক্ট দেখুন](https://github.com/ajmaine)
+- 📱 **Islamic Prayer Time Mini App**
+- 🧮 **Tasbih Counter**
+- 🎁 **Task & Reward System**
+- 🛠️ **PHP-based Utility Tools**  
+🔗 Explore all here: 👉 [github.com/ajmaine](https://github.com/ajmaine)
 
 ---
 
-## 🌟 সাপোর্ট করতে চাইলে
+## 🧡 Support Me
 
-> ⭐️ আমার প্রোফাইল/রেপোতে `Star` দিন  
-> 📣 বন্ধুদের সাথে শেয়ার করুন  
-> 🧡 ভালো লাগলে ইনবক্স/ইমেইল করে জানাতে ভুলবেন না!
+> If you like my work, don't forget to:
+
+- ⭐ Star my repositories  
+- 🔁 Share with others  
+- 💬 Message me or say hello via Telegram or Email!
 
 <p align="center">
-  ধন্যবাদ সবাইকে ❤️  
+  Thank you for visiting! 🙏  
   <br>
-  — আজমাইন আল আরাফাত
+  — Azmain Al Arafat
 </p>
